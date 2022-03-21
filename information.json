@@ -1,0 +1,101 @@
+[
+
+  {
+
+    "phone": "17606017579", 
+
+    "password": "17606017579Djx.", 
+
+    "device": "Android", 
+
+    "token": "e1f353671ab1c1455e8e49bbc0912b812059d406b2850027dcb6518737f52d39323f6e7f03b881db21133b1bf2ae5bc5", 
+    
+    "country": "中国", 
+
+    "province": "福建省", 
+
+    "city": "福州市", 
+
+    "address": "闽侯县上街镇联榕路8号", 
+
+    "latitude": "26.073054", # 纬度
+
+    "longitude": "119.160978", # 经度
+
+    "SERVERPUSHKEY": "SCT3988TrZHNyNaiUOFPd4ZyqpsgNlAT", 
+
+    "TG_BOT_TOKEN": "",  # Telegram推送服务Token
+
+    "TG_USER_ID": "", # Telegram推送服务UserId
+
+    "BARK": "", # bark消息推送服务,自行搜索; secrets可填;形如jfjqxDx3xxxxxxxxSaK的字符串
+
+    "PUSHPLUS": "3e96cf66971d4415ad63a79975287812", 
+
+    "ACCESSTOKEN": "", # 企业微信access_token
+
+    "CORPID": "", # 企业ID  （如果已经填写ACCESSTOKEN  则无需填写这个）
+
+    "CORPSECRET": "", # 应用的凭证密钥  （如果已经填写ACCESSTOKEN  则无需填写这个）
+
+    "TOUSER": "", # touser指定接收消息的成员  默认为全部
+
+    "AGENTID": "", # agentid企业应用的id
+
+    "THUMB_MEDIA_ID": "" , # 企业微信素材库图片id
+
+    "DING_PUSH_TOKEN": "" # 钉钉
+
+  },
+
+  {
+
+    "phone": "你的手机号", # 账号
+
+    "password": "你的密码", # 密码
+
+    "device": "Android", # 设备  Android或者iOS
+
+    "token": "123", #抓包获取token，在请求头中为 authorization
+
+    "country": "中国", # 国家
+
+    "province": "江西省", # 省份
+
+    "city": "萍乡市", # 城市  
+
+"address": "中国江西省萍乡市芦溪县东南边境", # 详细地址
+
+    "latitude": "27.467943", # 纬度
+
+    "longitude": "114.17542", # 经度
+
+     "SERVERPUSHKEY": "", # Server酱推送
+
+    "TG_BOT_TOKEN": "",  # Telegram推送服务Token
+
+    "TG_USER_ID": "", # Telegram推送服务UserId
+
+    "BARK": "", # bark消息推送服务,自行搜索; secrets可填;形如jfjqxDx3xxxxxxxxSaK的字符串
+
+    "PUSHPLUS": "", # PUSHPLUS消息推送Token
+
+    "ACCESSTOKEN": "", # 企业微信access_token
+
+    "CORPID": "", # 企业ID  （如果已经填写ACCESSTOKEN  则无需填写这个）
+
+    "CORPSECRET": "", # 应用的凭证密钥  （如果已经填写ACCESSTOKEN  则无需填写这个）
+
+    "TOUSER": "", # touser指定接收消息的成员  默认为全部
+
+    "AGENTID": "", # agentid企业应用的id
+
+    "THUMB_MEDIA_ID": "", # 企业微信素材库图片id
+
+    "DING_PUSH_TOKEN": "" # 钉钉
+
+  }
+
+  
+
+]
