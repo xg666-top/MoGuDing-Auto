@@ -18,33 +18,33 @@
 
     "address": "闽侯县上街镇联榕路8号", 
 
-    "latitude": "26.073054", # 纬度
+    "latitude": "26.073054", 
 
-    "longitude": "119.160978", # 经度
+    "longitude": "119.160978", 
 
     "SERVERPUSHKEY": "SCT3988TrZHNyNaiUOFPd4ZyqpsgNlAT", 
 
-    "TG_BOT_TOKEN": "",  # Telegram推送服务Token
+    "TG_BOT_TOKEN": "",  
 
-    "TG_USER_ID": "", # Telegram推送服务UserId
+    "TG_USER_ID": "", 
 
-    "BARK": "", # bark消息推送服务,自行搜索; secrets可填;形如jfjqxDx3xxxxxxxxSaK的字符串
+    "BARK": "", 
 
     "PUSHPLUS": "3e96cf66971d4415ad63a79975287812", 
 
-    "ACCESSTOKEN": "", # 企业微信access_token
+    "ACCESSTOKEN": "", 
 
-    "CORPID": "", # 企业ID  （如果已经填写ACCESSTOKEN  则无需填写这个）
+    "CORPID": "", 
 
-    "CORPSECRET": "", # 应用的凭证密钥  （如果已经填写ACCESSTOKEN  则无需填写这个）
+    "CORPSECRET": "", 
 
-    "TOUSER": "", # touser指定接收消息的成员  默认为全部
+    "TOUSER": "", 
 
-    "AGENTID": "", # agentid企业应用的id
+    "AGENTID": "", 
 
-    "THUMB_MEDIA_ID": "" , # 企业微信素材库图片id
+    "THUMB_MEDIA_ID": "" , 
 
-    "DING_PUSH_TOKEN": "" # 钉钉
+    "DING_PUSH_TOKEN": "" 
 
   },
 
